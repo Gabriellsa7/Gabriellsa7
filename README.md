@@ -24,7 +24,7 @@ Secondary Stack:
 <br>
 
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ReactNative](https://img.shields.io/badge/ReactNative%20js-339933?style=for-the-badge&logo=reactnative&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 Studying in this moment:
 <br>
