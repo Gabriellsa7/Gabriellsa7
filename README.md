@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨‍💻Hi i'm Gabriel<br>📒 I am studying for a Bachelor's degree in Information Systems at IFS.<br>📓 Always willing to learn new things.
 
-
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabriel_ssantanab) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-santos-05029629a) 
