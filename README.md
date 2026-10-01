@@ -1,40 +1,99 @@
-# 💫 About Me:
-👨‍💻Hi i'm Gabriel FullStack Developer | React Native, NextJS, Javascript, TypeScript, NodeJS, Java, Spring<br>📒 I am studying for a Bachelor's degree in Information Systems at IFS.<br>📓 Always willing to learn new things.
+# 👋 Hi, I'm Gabriel Santos
 
- 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabriel_ssantanab) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-santos-05029629a) 
-[![Portifolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://gabrielsantanaportfolio.netlify.app/)
+### Software Engineer | Full Stack & Mobile Developer
 
-<h2>🛠 &nbsp;Tech Stack</h2>
+I'm a Software Engineer focused on building scalable, maintainable, and user-focused applications across web, backend, and mobile platforms.
 
-<h3>💻 &nbsp;Front-end:</h3>
-<br>
+I have professional experience throughout the software development lifecycle, from requirements analysis, planning, and technical refinement to architecture, implementation, testing, delivery, and continuous improvement.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+My main areas of experience include React, Next.js, TypeScript, Node.js, NestJS, and React Native, with experience building frontend applications, backend APIs, database integrations, and mobile applications.
 
-<h3>⚙️ &nbsp;Back-end and DataBase:</h3>
-<br>
+🎓 Bachelor's degree in Information Systems at IFS.
 
-![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+🚀 I also develop personal projects to explore new technologies, strengthen my engineering skills, and build complete solutions from the ground up.
 
-<h3>⚒️Workstation Tools:<h3>
-<br>
+💡 Always learning, building, and looking for better ways to solve problems through software.
 
-![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Insominia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
-![INTELLIJ](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
+---
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/gabriel-santos-05029629a)
+- 🌎 [Portfolio](https://gabrielsantanaportfolio.netlify.app/)
+- 📸 [Instagram](https://instagram.com/gabriel_ssantanab)
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3
+- **Frameworks & Libraries:** React, Next.js
+- **Styling:** Tailwind CSS, Sass, Styled Components
+
+### 📱 Mobile
+
+- React Native
+- Expo
+- TypeScript
+
+### ⚙️ Backend
+
+- Node.js
+- Express
+- NestJS
+- TypeScript
+- Java
+- Spring Boot
+
+### 🗄️ Databases
+
+- MongoDB
+- MySQL
+
+### 🧰 Tools
+
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+- Insomnia
+
+---
+
+## 🚀 What I Like to Build
+
+- 🌐 Modern web applications
+- 📱 Cross-platform mobile applications
+- 🔌 REST APIs and backend services
+- 🧩 Scalable and maintainable architectures
+- 🗄️ Database-driven applications
+- ⚡ Reusable and high-performance components
+- 🔐 Authentication and authorization systems
+- 📦 Full-stack applications from database to user interface
+
+---
+
+## 📚 Currently Learning
+
+I'm continuously improving my knowledge in:
+
+- Software architecture and design patterns
+- Backend development and API design
+- Mobile application development
+- Performance optimization
+- Clean Code and maintainable systems
+- Scalable application architecture
+
+---
+
+## 📌 Personal Projects
+
+I regularly work on personal projects across **frontend, backend, and mobile development**.
+
+These projects allow me to experiment with new technologies, explore different architectures, and build complete solutions from the database and API layers to the user interface.
+
+---
+
+### 💭 Build. Learn. Improve. Repeat. 🚀
