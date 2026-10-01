@@ -18,9 +18,9 @@ My main areas of experience include React, Next.js, TypeScript, Node.js, NestJS,
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/gabriel-santos-05029629a)
-- 🌎 [Portfolio](https://gabrielsantanaportfolio.netlify.app/)
-- 📸 [Instagram](https://instagram.com/gabriel_ssantanab)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabriel_ssantanab) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-santos-05029629a) 
+[![Portifolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://gabrielsantanaportfolio.netlify.app/)
 
 ---
 
