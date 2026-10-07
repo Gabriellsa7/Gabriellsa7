@@ -44,8 +44,6 @@ My main areas of experience include React, Next.js, TypeScript, Node.js, NestJS,
 - Express
 - NestJS
 - TypeScript
-- Java
-- Spring Boot
 
 ### 🗄️ Databases
 
@@ -57,7 +55,6 @@ My main areas of experience include React, Next.js, TypeScript, Node.js, NestJS,
 - Git
 - GitHub
 - VS Code
-- IntelliJ IDEA
 - Insomnia
 
 ---
